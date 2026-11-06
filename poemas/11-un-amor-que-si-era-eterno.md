@@ -1,9 +1,9 @@
 # UN AMOR QUE SÍ ERA ETERNO
 
-Hace años, sí que conseguía  
+*Hace años, sí que conseguía*  
 vivir en el presente, que parecía  
 no acabarse, y vos sí lo erais todo.  
-Sólo en aquella juventud lo conseguí._  
+*Sólo en aquella juventud lo conseguí.*  
 
 Aquellas épocas prontas,  
 de holgadas sonrisas,  

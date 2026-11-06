@@ -3,7 +3,7 @@
 Sami Halawa (Madrid, 1 de junio de 1996). Diecisiete poemas escritos entre 2011 y 2013, en Madrid, Segovia, Hong Kong y Cantón, de «Las Fugas», el libro de poemas que el autor escribió entre 2011 y 2026. Cada poema va completo, con su fecha, su lugar y la edad del autor.
 
 - Web: https://poesias.samihalawa.com
-- Análisis comparado con Rimbaud, Bécquer, Garcilaso, Zorrilla y Darío hecho con NotebookLM: https://poesias.samihalawa.com/#ia
+- Nota de prensa: https://poesias.samihalawa.com/prensa/
 - Libro, «Las Fugas: Poesía selecta» (2025): https://www.amazon.es/dp/B0FWQWSJXB
 
 ## Poemas
